@@ -1,0 +1,1293 @@
+/* Your app custom files in this file */
+/* Tab bar icons */
+i.tabbar-demo-icon-1 {
+  width: 30px;
+  height: 30px;
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30' fill='%23929292'><g><circle cx='15.2' cy='8.8' r='1.5'/><polygon points='16.7,12.3 16.7,11.7 16.7,11.3 13.7,11.3 13.7,12.3 14.7,12.3 14.7,20.3 13.7,20.3 13.7,21.3 17.7,21.3 17.7,20.3 16.7,20.3'/><path d='M15.2,2.3C8.3,2.3,2.7,7.9,2.7,14.8s5.6,12.5,12.5,12.5c6.9,0,12.5-5.6,12.5-12.5S22.1,2.3,15.2,2.3z M15.2,26.3 c-6.3,0-11.5-5.2-11.5-11.5S8.8,3.3,15.2,3.3s11.5,5.2,11.5,11.5S21.5,26.3,15.2,26.3z'/></g></svg>");
+}
+.active i.tabbar-demo-icon-1 {
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 30 30' fill='%23007aff'><path d='M15,2.6C8.1,2.6,2.5,8.2,2.5,15.1C2.5,22,8.1,27.6,15,27.6S27.5,22,27.5,15.1C27.5,8.2,21.9,2.6,15,2.6z M15,7.6 c0.8,0,1.5,0.7,1.5,1.5c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5C13.5,8.3,14.2,7.6,15,7.6z M17.5,21.6h-4v-1h1v-8h-1v-1h3V12 v0.6v8h1V21.6z'/></svg>");
+}
+i.tabbar-demo-icon-2 {
+  width: 25px;
+  height: 30px;
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 25 17' fill='%23929292'><path d='M19.5,0h-14L0,6v11h25V6L19.5,0z M5.9,1h13.2l4.5,5H16c0,1.9-1.6,3.4-3.5,3.4C10.6,9.4,9,7.9,9,6H1.4L5.9,1z M24,16H1V7h7.1 c0.5,1.9,2.3,3.4,4.4,3.4s3.9-1.5,4.4-3.4H24V16z'/></svg>");
+}
+.active i.tabbar-demo-icon-2 {
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 25 17' fill='%23007aff'><path d='M19.5,0h-14L0,6v11h25V6L19.5,0z M5.9,1h13.2l4.5,5H16c0,1.9-1.6,3.4-3.5,3.4C10.6,9.4,9,7.9,9,6H1.3L5.9,1z'/></svg>");
+}
+i.tabbar-demo-icon-3 {
+  width: 30px;
+  height: 30px;
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 30 19' fill='%23929292'><path d='M16.8,1c3.7,0,6.8,3,6.8,6.8l0,0.1c0,0,0,0.1,0,0.1l0,1l1,0C27,9,29,11,29,13.5c0,2.5-2,4.5-4.5,4.5H6c-2.8,0-5-2.2-5-5 c0-2.1,1.4-4,3.4-4.7L5,8.1l0.1-0.6C5.3,6,6.5,5,8,5c0.4,0,0.9,0.1,1.3,0.3l0.9,0.5l0.4-0.9C11.8,2.5,14.2,1,16.8,1 M16.8,0 c-3.1,0-5.7,1.8-7,4.4C9.2,4.2,8.6,4,8,4C6,4,4.4,5.4,4.1,7.3C1.7,8.1,0,10.4,0,13c0,3.3,2.7,6,6,6h18.5v0c3,0,5.5-2.5,5.5-5.5 c0-3-2.5-5.5-5.5-5.5c0-0.1,0-0.2,0-0.2C24.5,3.5,21.1,0,16.8,0L16.8,0z'/></svg>");
+}
+.active i.tabbar-demo-icon-3 {
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 30 19' fill='%23007aff'><path d='M24.5,8c0-0.1,0-0.2,0-0.2C24.5,3.5,21,0,16.8,0c-3.1,0-5.7,1.8-7,4.4C9.2,4.2,8.6,4,8,4C6,4,4.4,5.4,4,7.3 C1.7,8.1,0,10.4,0,13c0,3.3,2.7,6,6,6h18.5v0c3,0,5.5-2.5,5.5-5.5C30,10.5,27.5,8,24.5,8z'/></svg>");
+}
+i.tabbar-demo-icon-4 {
+  width: 25px;
+  height: 30px;
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 25 19' fill='%23929292'><g><path d='M23,3h-4.1l-2.4-2.4c0,0,0,0,0,0l0,0C16.1,0.2,15.6,0,15,0h-5C9.5,0,8.9,0.3,8.6,0.6l0,0L6.2,3H2C0.9,3,0,3.9,0,5v12 c0,1.1,0.9,2,2,2h21c1.1,0,2-0.9,2-2V5C25,3.9,24.1,3,23,3z M24,17c0,0.6-0.4,1-1,1H2c-0.6,0-1-0.4-1-1V5c0-0.6,0.4-1,1-1h4.2h0.4 l0.3-0.3l1.2-1.2l0,0.1l1.1-1.2C9.5,1.1,9.8,1,10,1h5c0.3,0,0.5,0.1,0.7,0.3l2.4,2.4L18.4,4h0.4H23c0.6,0,1,0.4,1,1V17z'/><path d='M12.5,4C8.9,4,6,6.9,6,10.5c0,3.6,2.9,6.5,6.5,6.5c3.6,0,6.5-2.9,6.5-6.5C19,6.9,16.1,4,12.5,4z M12.5,16 c-3,0-5.5-2.5-5.5-5.5C7,7.5,9.5,5,12.5,5S18,7.5,18,10.5C18,13.5,15.5,16,12.5,16z'/><path d='M12.5,6C10,6,8,8,8,10.5C8,13,10,15,12.5,15s4.5-2,4.5-4.5C17,8,15,6,12.5,6z M12.5,14C10.6,14,9,12.4,9,10.5 C9,8.6,10.6,7,12.5,7S16,8.6,16,10.5C16,12.4,14.4,14,12.5,14z'/></g></svg>");
+}
+.active i.tabbar-demo-icon-4 {
+  background-image: url("data:image/svg+xml;charset=utf-8,<svg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 25 19' fill='%23007aff'><g><path d='M23,3h-4.1l-2.4-2.4c0,0,0,0,0,0l0,0C16.1,0.2,15.6,0,15.1,0h-5C9.5,0,9,0.3,8.6,0.6l0,0L6.2,3H2C0.9,3,0,3.9,0,5v12 c0,1.1,0.9,2,2,2h21c1.1,0,2-0.9,2-2V5C25,3.9,24.1,3,23,3z M12.5,16c-3,0-5.5-2.5-5.5-5.5C7,7.5,9.5,5,12.5,5c3,0,5.5,2.5,5.5,5.5 C18,13.5,15.5,16,12.5,16z'/><circle cx='12.5' cy='10.5' r='4.5'/></g></svg>");
+}
+.vshare {
+  background-image :url("../images/vshare.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;                      
+}
+.cydia {
+  background-image :url("../images/cydia.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.cydiaw {
+  background-image :url("../images/Cydia-Warrior-Icon.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ssh {
+  background-image :url("../images/ssh2.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.donate {
+  background-image :url("../images/Partner-icon.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;     
+}
+
+.remove {
+  background-image :url("../images/deleteicon.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.why {
+  background-image :url("../images/whyicon.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.cydia {
+  background-image :url("../images/cydia8.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.featured {
+  background-image :url("../img/star.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.myaccount {
+  background-image :url("../images/brFmzU3TugE.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Activator {
+  background-image :url("http://cydia.saurik.com//icon/libactivator.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FiveIconDock {
+  background-image :url("http://cydia.saurik.com//icon/com.saurik.iphone.fid.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.flux {
+  background-image :url("http://cydia.saurik.com//icon/org.herf.flux.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iFile {
+  background-image :url("http://cydia.saurik.com//icon/eu.heinelt.ifile.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ResetAllKiller {
+  background-image :url("http://cydia.saurik.com//icon/net.crazy.resetallkiller.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SBSettings {
+  background-image :url("http://cydia.saurik.com//icon/sbsettings.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ShowCase {
+  background-image :url("http://cydia.saurik.com//icon/jp.ashikase.showcase.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SoftwareUpdateKiller {
+  background-image :url("http://cydia.saurik.com//icon/net.crazy.updateskiller.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SpringFlash {
+  background-image :url("http://cydia.saurik.com//icon/springflash.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SSLPatch {
+  background-image :url("http://cydia.saurik.com//icon/com.rpetrich.sslpatch.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SwipeSelection {
+  background-image :url("http://cydia.saurik.com//icon/com.iky1e.swipeselection.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.WinterBoard {
+  background-image :url("http://cydia.saurik.com//icon/winterboard.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Zeppelin {
+  background-image :url("http://cydia.saurik.com//icon/com.alexzielenski.zeppelin.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.Alkaline {
+  background-image :url("http://cydia.saurik.com//icon/com.fortysixandtwo.alkaline.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.AnyAttach {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.anyattach.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Auxo {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.auxo.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Auxo2 {
+  background-image :url("http://cydia.saurik.com//icon/com.a3tweaks.auxo2.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Auxo3 {
+  background-image :url("http://cydia.saurik.com//icon/com.a3tweaks.auxo3.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Bolt {
+  background-image :url("http://cydia.saurik.com//icon/com.phoenix.bolt.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.DietBar {
+  background-image :url("http://cydia.saurik.com//icon/com.rpetrich.dietbar.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FakeCarrier {
+  background-image :url("http://cydia.saurik.com//icon/com.mirrordev.fakecarrier.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Forecast {
+  background-image :url("http://cydia.saurik.com//icon/com.dba-tech.forecast.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Infiniboard {
+  background-image :url("http://cydia.saurik.com//icon/com.chpwn.infiniboard.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.LowPowerBanner {
+  background-image :url("http://cydia.saurik.com//icon/com.naken.lowpowerbanner.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.MapsOpener {
+  background-image :url("http://cydia.saurik.com//icon/ws.hbang.mapsopener.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PasswordPilot {
+  background-image :url("http://cydia.saurik.com//icon/com.filippobiga.passwordpilot.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.Barrel {
+  background-image :url("http://cydia.saurik.com/icon/com.aaronash.barrel.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Cascade {
+  background-image :url("http://cydia.saurik.com/icon/me.adambell.overflow.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Cylinder {
+  background-image :url("http://cydia.saurik.com/icon/com.r333d.cylinder.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FiveColumnSpringboard {
+  background-image :url("http://cydia.saurik.com/icon/net.r-ch.fcsb.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FiveIconDock {
+  background-image :url("http://cydia.saurik.com/icon/com.saurik.iphone.fid.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FolderCloser {
+  background-image :url("http://cydia.saurik.com/icon/com.yllier.foldercloser.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FolderEnhancer {
+  background-image :url("http://cydia.saurik.com/icon/jp.ashikase.folderenhancer2.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Graviboard {
+  background-image :url("http://cydia.saurik.com/icon/org.thebigboss.graviboard.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Gridlock {
+  background-image :url("http://cydia.saurik.com/icon/com.xuzzproductions.iphone.cydia.gridlock2.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.HideLabels {
+  background-image :url("http://cydia.saurik.com/icon/com.dantesieg.hidelabels.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.HideNewsstand {
+  background-image :url("http://cydia.saurik.com/icon/com.xuzzproductions.iphone.cydia.gridlock2.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Iconoclasm {
+  background-image :url("http://cydia.saurik.com/icon/net.r-ch.iconoclasm.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.IconRenamer {
+  background-image :url("http://cydia.saurik.com/icon/com.rpetrich.iconrenamer.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+.AdBlocker {
+  background-image :url("http://cydia.saurik.com//icon/com.yllier.blocker.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BrowserChanger {
+  background-image :url("http://cydia.saurik.com//icon/jp.tom-go.openopera.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Nitrous {
+  background-image :url("http://cydia.saurik.com//icon/net.joedj.nitrous.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PulltoRefreshSafari {
+  background-image :url("http://cydia.saurik.com//icon/com.blackfacility.pulltorefreshsafari.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SafariDownloadManager {
+  background-image :url("http://cydia.saurik.com//icon/net.howett.safaridownloader.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SafariUploadEnabler {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.safariuploadenabler.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Tabplus {
+  background-image :url("http://cydia.saurik.com//icon/com.phoenix.tabplus.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.UserAgentFaker {
+  background-image :url("http://cydia.saurik.com//icon/com.conradkramer.uafaker.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+.AskToCall {
+  background-image :url("http://cydia.saurik.com//icon/me.devbug.asktocall.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Bars {
+  background-image :url("http://cydia.saurik.com//icon/com.phoenix.bars.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CallBar {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.callbar.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CyDialer {
+  background-image :url("http://cydia.saurik.com//icon/cydialer.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Cyntact {
+  background-image :url("http://cydia.saurik.com//icon/cyntact.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.RingerTones {
+  background-image :url("http://cydia.saurik.com//icon/com.yllier.ringerandtones.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.ActionMenu {
+  background-image :url("http://cydia.saurik.com//icon/actionmenu.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Bloard {
+  background-image :url("http://cydia.saurik.com//icon/com.gnos.bloard.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BTCMouseTrackpad {
+  background-image :url("http://cydia.saurik.com//icon/ch.ringwald.btc-mouse.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ColorKeyboard {
+  background-image :url("http://cydia.saurik.com//icon/net.9eye.colorkeyboard.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iKeyWi {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.ikeywi.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SwipeSelection {
+  background-image :url("http://cydia.saurik.com//icon/com.iky1e.swipeselection.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SwipeShiftCaret {
+  background-image :url("http://cydia.saurik.com//icon/jp.r-plus.swipeshiftcaret.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+.AlwaysClear {
+  background-image :url("http://cydia.saurik.com//icon/com.ryanburke.alwaysclear.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BlurriedNCBackground {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.blurriedncbackground.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.DashboardX {
+  background-image :url("http://cydia.saurik.com//icon/com.orikad.dashboard.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FavoriteContacts {
+  background-image :url("http://cydia.saurik.com//icon/de.2peaches.favoritecontacts.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.MusicControlsPro {
+  background-image :url("http://cydia.saurik.com//icon/com.phoenix.mcpro6.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.NCAllOnly {
+  background-image :url("http://cydia.saurik.com//icon/com.jbp.ncallonly.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.NCSettings {
+  background-image :url("http://cydia.saurik.com//icon/com.jamied360.ncsettings.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SBSettings {
+  background-image :url("http://cydia.saurik.com//icon/sbsettings.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ShowIP {
+  background-image :url("http://cydia.saurik.com//icon/com.indiendev.showip.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.WeeFlashlight {
+  background-image :url("http://cydia.saurik.com//icon/de.richtownapps.weeflashlight.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.AntiTint {
+  background-image :url("http://cydia.saurik.com//icon/com.rpetrich.antitint.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.NoBlur {
+  background-image :url("http://cydia.saurik.com//icon/com.xtm3x.noblur.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.NoSlowAnimations {
+  background-image :url("http://cydia.saurik.com//icon/com.marcosinghof.noslowanimations.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.AirBlueSharing {
+  background-image :url("http://cydia.saurik.com//icon/com.ericday.blued-obex.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.AppleFileConduit {
+  background-image :url("http://cydia.saurik.com//icon/com.saurik.afc2d.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Bridge {
+  background-image :url("http://cydia.saurik.com//icon/org.thebigboss.bridge.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iFile {
+  background-image :url("http://cydia.saurik.com//icon/eu.heinelt.ifile.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.MobileTerminal {
+  background-image :url("http://cydia.saurik.com//icon/mobileterminal-applesdk.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Netatalk {
+  background-image :url("http://cydia.saurik.com//icon/netatalk.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.OpenSSH {
+  background-image :url("http://cydia.saurik.com//icon/openssh.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.Applocker {
+  background-image :url("http://cydia.saurik.com//icon/com.nnfyrbsnss.applocker.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BioLockdown {
+  background-image :url("http://cydia.saurik.com//icon/com.rpetrich.biolockdown.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BioProtect {
+  background-image :url("http://cydia.saurik.com//icon/net.limneos.bioprotect.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CleverPin {
+  background-image :url("http://cydia.saurik.com//icon/com.filippobiga.cleverpin.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FirewalliP {
+  background-image :url("http://cydia.saurik.com//icon/com.yllier.firewall.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FirewalliP7 {
+  background-image :url("http://cydia.saurik.com//icon/com.yllier.firewall7.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.LocationSpoofer {
+  background-image :url("http://cydia.saurik.com//icon/com.aljama.locationspoofer.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.TypingPrivacy {
+  background-image :url("http://cydia.saurik.com//icon/net.joedj.typingprivacy.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+.DisplayOut {
+  background-image :url("http://cydia.saurik.com//icon/com.booleanmagic.displayout.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.DisplayRecorder {
+  background-image :url("http://cydia.saurik.com//icon/com.booleanmagic.displayrecorder.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Resupported4 {
+  background-image :url("http://cydia.saurik.com//icon/com.phoenix.resupported4.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Veency {
+  background-image :url("http://cydia.saurik.com//icon/veency.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+.AppInfo {
+  background-image :url("http://cydia.saurik.com//icon/com.mileskabal.appinfo.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.AptBackup {
+  background-image :url("http://cydia.saurik.com//icon/com.bigboss.aptbackup.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Reddit {
+  background-image :url("../images/Reddit.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Jailbreak {
+  background-image :url("../images/iosicon.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.simulator {
+  background-image :url("../images/iNtrixOsSimulator-Logo.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.intrixthemes {
+  background-image :url("../images/iNTHEMES.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.appvalley {
+  background-image :url("../images/AppValley-logo.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.tweakbox {
+  background-image :url("../images/tweakbox.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.sideloadbox {
+  background-image :url("../images/SideloadBox.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.fnd {
+  background-image :url("../images/FNDLogo.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.netlify {
+  background-image :url("../images/AppStore.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.hackernews {
+  background-image :url("../images/HackerNews.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.disablesiri {
+  background-image :url("../images/DisableSiri.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.nocamera {
+  background-image :url("../images/DisableCamera.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.winmobia {
+  background-image :url("../images/winmob.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.hopy {
+  background-image :url("../images/Hopy.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.yiv {
+  background-image :url("../images/YIV.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.slither {
+  background-image :url("../images/Slither.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.freemovies {
+  background-image :url("../images/Freemovies.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.disableapppurchases {
+  background-image :url("../images/Disable-App-Purchases.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.disableappinstall {
+  background-image :url("../images/Disable-Apps-Installation.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BatteryMode {
+  background-image :url("../images/battery_mode.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SuperLowPowerMODE {
+  background-image :url("../images/superLPM.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iToggle {
+  background-image :url("../images/iToggle.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.QuickControlsEN {
+  background-image :url("../images/QuickControlsEN.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ChangeFont {
+  background-image :url("../images/ChangeFont.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ImageResizer {
+  background-image :url("../images/ImageResizer.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.WaterEject {
+  background-image :url("../images/WaterEject.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ConvertBurstToGIF {
+  background-image :url("../images/ConvertBurstToGIF.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ReverseImageSearch {
+  background-image :url("../images/ReverseImageSearch.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PhotoToolbox {
+  background-image :url("../images/PhotoToolbox.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CombineScreenshotsV {
+  background-image :url("../images/CombineScreenshotsV.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.TextEffects {
+  background-image :url("../images/TextEffects.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.GetLyrics {
+  background-image :url("../images/GetLyrics.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.DateCalculator {
+  background-image :url("../images/DateCalculator.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.AlarmswIntervals {
+  background-image :url("../images/AlarmsIntervals.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ShareWiFi {
+  background-image :url("../images/ShareWi-Fi.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PictureToPDF {
+  background-image :url("../images/PictureToPDF.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Mergepdf {
+  background-image :url("../images/Mergepdf.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Senddelayedtext {
+  background-image :url("../images/Senddelayedtext.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.IPAddress {
+  background-image :url("../images/IPAddress.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.TipCalculator {
+  background-image :url("../images/TipCalculator.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PhonesRepairShops {
+  background-image :url("../images/PhonesRepairShops.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.FlashingTorch {
+  background-image :url("../images/FlashingTorch.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.AceNiOStheme {
+  background-image :url("../images/ace-theme.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.AndoiOS {
+  background-image :url("../images/ando-ios.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Autumn {
+  background-image :url("../images/autumn.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.B7acknGr4y {
+  background-image :url("../images/b7acknGr4y.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BlackBoom {
+  background-image :url("../images/black-boom.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BlueWorld {
+  background-image :url("../images/blue-world.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.BoxGreen {
+  background-image :url("../images/box-green.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Candy {
+  background-image :url("../images/candy.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CaricatureiOS {
+  background-image :url("../images/caricature-ios.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CircleBee {
+  background-image :url("../images/circle-bee.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CircleIconsExtreme {
+  background-image :url("../images/circle-extreme.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.CirtangleShadow {
+  background-image :url("../images/cirtangle-shadow.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Craven {
+  background-image :url("../images/craven.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.DarkMoon {
+  background-image :url("../images/dark-moon.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.DarkGlow3D {
+  background-image :url("../images/dark-glow.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Dent {
+  background-image :url("../images/dent.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Desa1 {
+  background-image :url("../images/desa-1.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Emojis {
+  background-image :url("../images/emojis.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.GreeniOS {
+  background-image :url("../images/green-ios.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.GreenonPink {
+  background-image :url("../images/green-on-pink.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iAtomic {
+  background-image :url("../images/iatomic.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iClassicPower {
+  background-image :url("../images/iclassic-power.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.iKitPack {
+  background-image :url("../images/ikitpack.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Lanting {
+  background-image :url("../images/lanting.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.LightMetalliciOS {
+  background-image :url("../images/light-metallic.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.LonShTheme {
+  background-image :url("../images/lonsh.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Muze3 {
+  background-image :url("../images/muze-3.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Neon {
+  background-image :url("../images/neon.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.OrangeLight {
+  background-image :url("../images/orange-light.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Oyster {
+  background-image :url("../images/oyster.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PenguinWorld {
+  background-image :url("../images/penguin-world.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.PinkMoon {
+  background-image :url("../images/pink-moon.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.POPBlueHD {
+  background-image :url("../images/pop-blue-hd.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ProjectZero {
+  background-image :url("../images/projectzero.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.RediShadow {
+  background-image :url("../images/red-ishadow.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.RedAttract3D {
+  background-image :url("../images/redattract-3d.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.RetrofitiOS {
+  background-image :url("../images/retrofit-ios.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ShinyPink {
+  background-image :url("../images/shiny-pink.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.ShinyPurple {
+  background-image :url("../images/shiny-purple.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SideBox3D {
+  background-image :url("../images/sidebox-3d.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SimplyCute {
+  background-image :url("../images/simply-cute.png");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.SmoothPurple {
+  background-image :url("../images/smooth-purple.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.UnPivotforiOS {
+  background-image :url("../images/unpivot-for-ios.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.WhiteDrawn {
+  background-image :url("../images/whitedrawn.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Wording {
+  background-image :url("../images/wording.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.Zuko {
+  background-image :url("../images/zuko.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+.themes {
+  background-image :url("../img/theme-icon.jpg");
+  background-size: 24px 24px;
+  background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
