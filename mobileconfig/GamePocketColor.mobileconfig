@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAIAAAC2BqGFAAAAAXNSR0IArs4c6QAAAAlwSFlzAAAL
+EwAACxMBAJqcGAAAAjBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpSREYg
+eG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4K
+ICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6eG1w
+PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIgogICAgICAgICAgICB4bWxuczp0aWZmPSJo
+dHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx4bXA6Q3JlYXRvclRvb2w+
+QWNvcm4gdmVyc2lvbiA0LjUuMjwveG1wOkNyZWF0b3JUb29sPgogICAgICAgICA8dGlmZjpDb21w
+cmVzc2lvbj41PC90aWZmOkNvbXByZXNzaW9uPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43
+MjwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+NzI8L3RpZmY6
+WFJlc29sdXRpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4
+bXBtZXRhPgrbAjNNAAACK0lEQVR42u3dzW6qQBiA4d7/JaFDRkAIij9hEpIBRUyMO2M1LlyYtItu
+mnOqtT1HmRne9womT8jAQPLx8kZP6QUCoIEmoIEGmoAGmoAGGmgCGmgCGmigCWigCWj3off7/XK5
+XFjYarU6n8/WQNd1vbC23W5nDfTC5oB+Utvt9vVTh8Phcrm4AF211P0r3Gw2tkKXZZll2WAw6Pf7
+XksJIYbDYZ7n99whrYRWSgkhPGMKw1BrfWPBdV3bB53nuWdeUsqyLN2B1lq3uFfcLo5jd6DTNPUM
+rigKR6B93zcZejweuwCttfbMLooiF6CLojAcOggCrmiuaPZoA6FHoxFPHV1/jk6SxKmToVKKk2FH
+33VEUXRD2WLoj7d3k8kkCIIWdxLf9+M4Vkp9u1qLoe0KaKCBbhc6DMO+wUkpv/zEZR90r9cz/BT+
+5acWoIEGGmiggQYaaKCBBhpooIEGGmiggQYaaKCBBhpooIEGGmiggQYaaKCBBhpooIEGGmiggQYa
+aKCBBhpooIEGGmiggQYaaKCBBhpooIH+d2gppcnKQghHphtUVVUa3LUx6Z0bjFJVlVIqv97tedtM
+oLm3b6ebZlkG9P9pOp1eU06S5Ee/SAD6N9ZxHD9IudPDq/6wfqhy16eEzWaz5ygzjm0xn8/TNH20
+stHQVv+U7O+apjEU+ng8Nk2zcqL1en06nQyFJqCBBpqABpqABhpoAhpoAhpooAlooAlooIEmoO3r
+Hbe2AugRgUiAAAAAAElFTkSuQmCC
+			</data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Game Play Color</string>
+			<key>PayloadDescription</key>
+			<string>Configures Web Clip</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip (Game Play Color)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.InSeven.GPC.WebClip</string>
+			<key>PayloadOrganization</key>
+			<string>InSeven Inc.</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>320F0225-F3D4-403F-8835-FD318B453A0C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://app.gameplaycolor.com/</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Game Play Color, A free web based GameBoy and GameBoy Color Emulator!</string>
+	<key>PayloadDisplayName</key>
+	<string>Game Play Color</string>
+	<key>PayloadIdentifier</key>
+	<string>com.InSeven.GPC</string>
+	<key>PayloadOrganization</key>
+	<string>InSeven Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E5929E21-477A-48A2-9595-A8935918FC60</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
