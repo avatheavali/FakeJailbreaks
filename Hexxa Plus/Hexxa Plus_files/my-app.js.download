@@ -1,0 +1,18 @@
+// Modified By Bishrul Haq
+var myApp = new Framework7({
+    animateNavBackIcon:true
+});
+
+
+var $$ = Dom7;
+var mainView = myApp.addView('.view-main', {
+    // Enable dynamic Navbar
+    dynamicNavbar: true,
+    // Enable Dom Cache so we can use all inline pages
+    domCache: true
+});
+
+ 
+$$('.alert-text-title').on('click', function () {
+    myApp.alert('This app does not supports to your region.', 'SSH Beta');
+});
